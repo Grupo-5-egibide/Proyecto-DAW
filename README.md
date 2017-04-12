@@ -1,2 +1,2 @@
 # Proyecto-DAW
-Adrian Jon Aroa
+Adrian, Jon y Aroa.
