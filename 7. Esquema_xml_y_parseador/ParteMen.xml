@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<partes>
+    <partes>
+        <idParte>1</idParte>
+        <kmInicio>1</kmInicio>
+        <kmFin>80</kmFin>
+        <gasto>12.3</gasto>
+        <incidencia/>
+        <estado>cerrado</estado>
+    </partes>
+    <partes>
+        <idParte>2</idParte>
+        <kmInicio>80000</kmInicio>
+        <kmFin>80200</kmFin>
+        <gasto>22.3</gasto>
+        <incidencia>Ninguna</incidencia>
+        <estado>cerrado</estado>
+    </partes>
+</partes>

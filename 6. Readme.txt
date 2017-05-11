@@ -1,0 +1,14 @@
+Gracias por obtener nuestro Software de Gestión interna.
+
+El primer paso será abrir un programa Gestor de Base de Datos(Como por ejemplo USB Webserver) 
+el cual iniciaremos para despues importar nuestra base de datos(contenida en la carpeta 3 Script_bd)
+
+Una vez importada la Base de Datos tenemos que descomprimir el .rar del proyecto contenido en el punto 5.Proyecto_java.
+
+Ahora ya podremos ejecutar el programa NetBeans y seleccionar la carpeta del proyecto_java ya descomprimido,
+para arrancar el proyecto basta con seleccionar el botón "Run proyect"(Símbolo play) en la parte superior del programa.
+
+Por último, para el primer acceso necesitamos un trabajador de Administración el cual ya ha sido creado en la BD previamente:
+
+Usuario: PSanz
+Contraseña: 1
